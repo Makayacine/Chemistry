@@ -24,7 +24,7 @@ A reproducible end-to-end Quantitative Structure–Activity Relationship (QSAR) 
 - **requirements.txt**  
   Pinning critical Python dependencies.
 
----
+
 
 ## 🛠️ Installation
 
@@ -32,7 +32,7 @@ A reproducible end-to-end Quantitative Structure–Activity Relationship (QSAR) 
    ```bash
    git clone https://github.com/Makayacine/Chemistry.git
    cd Zinc10M
-````
+
 
 2. **Create & activate a virtual environment**
 
@@ -50,7 +50,6 @@ A reproducible end-to-end Quantitative Structure–Activity Relationship (QSAR) 
 4. **Install RDKit**
    Follow the instructions for your platform from the [RDKit documentation](https://www.rdkit.org/docs/Install.html).
 
----
 
 ## 🗄️ Data Preparation
 
@@ -60,7 +59,6 @@ A reproducible end-to-end Quantitative Structure–Activity Relationship (QSAR) 
    * Modify the sampling fraction in the notebook, or
    * Prepare a pre-sampled CSV (e.g. `data/zinc10k_sample.csv`).
 
----
 
 ## 🚀 Usage
 
@@ -77,7 +75,6 @@ A reproducible end-to-end Quantitative Structure–Activity Relationship (QSAR) 
    * Cross-validation performance curves
    * Final test-set metrics & feature importance
 
----
 
 ## 🧩 Notebook Structure
 
@@ -112,7 +109,7 @@ A reproducible end-to-end Quantitative Structure–Activity Relationship (QSAR) 
    * Plot feature importances
    * Summarize main physicochemical trends
 
----
+
 
 ## 📈 Results
 

@@ -1,0 +1,10 @@
+# requirements.txt for Zinc10M QSAR Pipeline
+
+pyspark==3.3.2
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.1.2
+seaborn==0.12.2
+matplotlib==3.6.0
+rdkit-pypi==2022.9.5
+jupyterlab==3.5.3

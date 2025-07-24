@@ -1,9 +1,9 @@
-````markdown
+
 # Zinc10M QSAR Pipeline
 
 A reproducible end-to-end Quantitative Structure–Activity Relationship (QSAR) workflow to predict molecular lipophilicity (log P) for millions of compounds from the ZINC15 database using 2D descriptors and circular fingerprints.
 
----
+
 
 ## 📋 Contents
 

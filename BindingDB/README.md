@@ -1,3 +1,6 @@
+NB
+Please note that the notebook may take up to a minute to fully render due to the large amount of whitespace output produced by PySpark when displaying DataFrame previews.
+
 # Predicting BTK Inhibitor Potency with Machine Learning
 
 This project demonstrates a complete machine learning workflow to predict the bioactivity (pIC50) of chemical compounds against Bruton's Tyrosine Kinase (BTK). The analysis is performed using a combination of data processing, cheminformatics, and machine learning libraries in Python.
@@ -57,3 +60,5 @@ This project leverages several key Python libraries to handle data processing, f
     ```
 2.  **Download Data:** Obtain the `BindingDB_All.tsv` file from the official BindingDB website.
 3.  **Run the Notebook:** Open and execute the cells in `Binding.DB.ipynb` in a Jupyter environment.
+
+##NB the Notebook takes a minutes to load because of the pyspark 

@@ -20,7 +20,6 @@ A reproducible end-to-end Quantitative Structure–Activity Relationship (QSAR) 
 
 - **data/**
   - `zinc15_10M_2D.csv` (10 million SMILES + experimental log P)  
-  - *Optional:* smaller sample datasets for rapid prototyping
 
 - **requirements.txt**  
   Pinning critical Python dependencies.
